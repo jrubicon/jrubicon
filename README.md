@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img
+align="left"
+alt="jrubix's github stats"
+src="https://github-readme-stats.vercel.app/api?username=jrubix&show_icons=true&hide_border=true"
+/>
+
 <!--
 **jrubix/jrubix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
