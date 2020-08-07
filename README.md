@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Justin Drouin.
-
+##### Masters In Computer Science at California State University Of Fullerton. BA. International Relations UCM.
 <img
 align="left"
 alt="jrubix's github stats"
