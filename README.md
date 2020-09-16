@@ -5,7 +5,7 @@ I'm a web developer, software developer and graduate student completeing his mas
 - 🔭 Currently Projects: ...  A Sales and HR App for a company im currently employeed with. PHP primary
 - 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, Assembly (intel x86)
 - 🌱 Currently learning: ...  Golang and swift, LISP
-- 📫 How to reach me: ...  <a href="https://justindrouin.com">justindrouin.com</a>
+- 📫 How to reach me: ...  <a href="https://justindrouin.com">justindrouin.com</a> or jdrouin@csu.fullerton.edu
 
 ### Stats
 <img
