@@ -3,8 +3,9 @@ I'm a web developer, software developer and MS in computer science from Californ
 
 ### More About
 - 🔭 Currently Projects: ...  A Sales and HR App for a company im currently employeed with. PHP primary
-- 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, Assembly (intel x86)
-- 🌱 Currently learning: ...  Golang and swift, LISP
+- 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, JavaScript, Assembly (intel x86)
+- 💎 CMS: ... Wordpress, Shopify
+- 🌱 Currently learning: ...  React, Golang and swift, LISP
 - 📫 How to reach me: ...  <a href="https://justindrouin.com">justindrouin.com</a> or jdrouin@csu.fullerton.edu
 
 ### Stats
