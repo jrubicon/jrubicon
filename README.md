@@ -6,7 +6,6 @@ I'm a web developer, software developer and MS in computer science from Californ
 - 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, JavaScript, Assembly (intel x86)
 - 💎 CMS: ... Wordpress, Shopify
 - 🌱 Currently learning: ...  React, Golang and swift, LISP
-- 📫 How to reach me: ...  <a href="https://justindrouin.com">justindrouin.com</a> or jdrouin@csu.fullerton.edu
 
 ### Stats
 <img
