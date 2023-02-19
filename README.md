@@ -6,7 +6,7 @@ I'm a web developer, software developer and MS in computer science from Californ
 - 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, JavaScript, Assembly (intel x86)
 - 💎 CMS: ... Wordpress, Shopify
 - 🌱 Currently learning: ...  React, Golang, swift, LISP
-- 🧙🏻‍♂ Work Account(s): ... @NCSA-Justin
+- 🧙🏻‍♂ Work Account(s): ... [@NCSA-Justin](https://github.com/NCSA-Justin)
 
 ### Stats
 <picture>
