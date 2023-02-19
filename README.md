@@ -6,9 +6,17 @@ I'm a web developer, software developer and MS in computer science from Californ
 - 🤖 Lanugages: ... C++, C, PHP, HTML, CSS, PYTHON, JavaScript, Assembly (intel x86)
 - 💎 CMS: ... Wordpress, Shopify
 - 🌱 Currently learning: ...  React, Golang, swift, LISP
+- 🧙🏻‍♂ Work Account(s): ... @NCSA-Justin
 
 ### Stats
-<img
-alt="jrubix's github stats"
-src="https://github-readme-stats.vercel.app/api?username=jrubix&show_icons=true&hide_border=true"
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=jrubix&show_icons=true&theme=aura"
+  media="(prefers-color-scheme: dark)"
 />
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jrubix&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=jrubix&show_icons=true" />
+</picture>
